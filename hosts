@@ -42,3 +42,10 @@
 121.199.53.221  antispam.ffrj.net
 112.124.20.101  ffweb.ffrj.net manage.ffrj.net
 >>>>>>> a8a29150f0e4e9268a051a81dc94b17bf966f734
+
+<!--{if $more_btn==1}-->
+				<div>
+					<a style="" class="zg-btn-white zg-r3px zu-button-more"
+						data-method="next" id="load-more" href="javascript:;" >更多</a>
+				</div>
+				<!--{/if}-->
